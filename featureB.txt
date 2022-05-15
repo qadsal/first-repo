@@ -1,0 +1,1 @@
+feature B file is added for merge testing purpose
